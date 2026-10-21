@@ -1,1 +1,4 @@
+pandas
+requsets
 plotly
+streamli
