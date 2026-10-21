@@ -1,2 +1,4 @@
-requsets
+pandas
+requests
 plotly
+streamlit
