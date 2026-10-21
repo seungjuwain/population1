@@ -1,4 +1,2 @@
-pandas
 requsets
 plotly
-streamli
